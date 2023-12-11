@@ -1,6 +1,6 @@
 # Welcome to my Profile! 👋
 
-## About Me ℹ️
+## About Me
 
 I am a second year university student studying computer science in the University of Crete
 
